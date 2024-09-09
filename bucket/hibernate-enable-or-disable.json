@@ -12,7 +12,7 @@
       "64bit": {
           "shortcuts": [
               [
-                  "Hibernate_x64.exe",
+                  "Hibernate/Hibernate_x64.exe",
                   "Hibernate Enable or Disable"
               ]
           ]
@@ -20,7 +20,7 @@
       "32bit": {
           "shortcuts": [
               [
-                  "Hibernate.exe",
+                  "Hibernate/Hibernate.exe",
                   "Hibernate Enable or Disable"
               ]
           ]
